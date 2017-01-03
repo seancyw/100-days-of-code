@@ -8,3 +8,10 @@
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure)
 
+### Day 1: January 3, 2017
+
+**Today's Progress**: Restructure Linked-list, Added Stack and Queue class
+
+**Thoughts:** Starting to get the grip on how to use template, as I'm not normally apply template while working. Basic functions of linked list and stack are there, will add on more functionality in coming days. Queue has some bug on enqueue and dequeue will look into it tomorrow.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/798dd310db3bd6d59dba9b0f9ab37e78ab8f5570)
