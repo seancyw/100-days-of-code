@@ -19,8 +19,16 @@
 
 ### Day 3: January 4, 2017
 
-**Today's Progress**: Refactoring Linked-list and Queue class
+**Today's Progress**: Refactoring Linked-list (Part1) and Queue class
 
 **Thoughts:** Basic structure for linked-list is quite important as many of others data structure implementation could reuse linked-list class. Queue class crashed yesterday has been fixed today, but linked-list class structure still have some bug on it. Will look into that tomorrow.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/904439e723c8f662bb97495b582de41990660637)
+
+### Day 4: January 5, 2017
+
+**Today's Progress**: Refactoring Linked-list (Part2), Stack and Queue class
+
+**Thoughts:** Feel accomplishment when the queue class could implement using two stack class and getting familiar with template specialization on class and function. Today also been try to implement the stack class using linked-list class too. The backbone of the structure is really important.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/57f0f42ead287eb9bc33d3faa267dccdd1becd90)
