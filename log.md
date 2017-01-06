@@ -32,3 +32,11 @@
 **Thoughts:** Feel accomplishment when the queue class could implement using two stack class and getting familiar with template specialization on class and function. Today also been try to implement the stack class using linked-list class too. The backbone of the structure is really important.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/57f0f42ead287eb9bc33d3faa267dccdd1becd90)
+
+### Day 5: January 6, 2017
+
+**Today's Progress**: Refactoring Linked-list (Part3), Added Hash Table structure
+
+**Thoughts:** Trying to implement hash table class using template, somehow it doesn't work well. So, implement it with string input first and improve it when I got idea to do so.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/33f83e0c972a6a70fe758fad40a9b6a1ab3876c8)
