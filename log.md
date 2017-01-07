@@ -40,3 +40,11 @@
 **Thoughts:** Trying to implement hash table class using template, somehow it doesn't work well. So, implement it with string input first and improve it when I got idea to do so.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/33f83e0c972a6a70fe758fad40a9b6a1ab3876c8)
+
+### Day 6: January 7, 2017
+
+**Today's Progress**: Reading and implemented Binary Tree class
+
+**Thoughts:** Still confused with some of terms describe in tree data structure, will read more on it tomorrow. Today was kinda rush, not much time to do more coding and reading.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/e2c40196dca67100223da31a0a0eae18b0819ec4)
