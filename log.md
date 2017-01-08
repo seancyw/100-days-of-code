@@ -48,3 +48,12 @@
 **Thoughts:** Still confused with some of terms describe in tree data structure, will read more on it tomorrow. Today was kinda rush, not much time to do more coding and reading.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/e2c40196dca67100223da31a0a0eae18b0819ec4)
+
+### Day 7: January 8, 2017
+
+**Today's Progress**: More Reading and implemented more functions for Binary Tree class
+
+**Thoughts:** Understand more terms in tree structure but still confused a lot with the implement on traversal and recursion. Will read more in coming days to be familiar and understand how it really work.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/1434584ffcda78d2c2ba894ada0d2ddaa856bf20)
+
