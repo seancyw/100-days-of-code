@@ -57,3 +57,13 @@
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/1434584ffcda78d2c2ba894ada0d2ddaa856bf20)
 
+### Day 8: January 9, 2017
+
+**Today's Progress**: Fixed wrong node delete in pop function for Binary Tree class
+
+**Thoughts:** Resistance today, doesn't have much focus on study for the tree. So, instead fix for the bug in the class. I must overcome the resistance.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/3484611b4d0b51dee572c3533a6217f779d2b240)
+
+
+
