@@ -65,5 +65,11 @@
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/3484611b4d0b51dee572c3533a6217f779d2b240)
 
+### Day 9: January 10, 2017
 
+**Today's Progress**: Fixed compile error in levelOrderTraversal function and make better test case for Binary Tree class 
+
+**Thoughts:** Was planning to fix the bug on stack destructor but doesn't work well. Anyhow, the bug in binary tree class is solved. Somehow, it seems that I still doesn't know a lots of stuff. The more I code, the more I'm lost.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/fc61f8c27ddbaf8a1cffcac0b1ef13e264564ff4)
 
