@@ -73,3 +73,11 @@
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/fc61f8c27ddbaf8a1cffcac0b1ef13e264564ff4)
 
+### Day 10: January 11, 2017
+
+**Today's Progress**: Added destroyTree, search and method to check if tree is a binary search tree
+
+**Thoughts:** Want to implement another structure but does not have much time to read up on it, so add more functionality to tree class before proceeding. In coming days, will spend more time on reading on others data strucure like graph, AVL tree, n-Ary tree if time is allowed.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/c5e99f3e4a979a9437441e3c02adba6a7e3136dd)
+
