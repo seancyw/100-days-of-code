@@ -81,3 +81,10 @@
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/c5e99f3e4a979a9437441e3c02adba6a7e3136dd)
 
+### Day 11: January 12, 2017
+
+**Today's Progress**: Added functions to get successor and predecessor of a given node (Binary Tree) class
+
+**Thoughts:** Reading on graph structure will implement it in coming days. Need more practice in tree recursion and traversal concept, it could be confusing sometimes.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/4083b05a081ce9f7c5ba4c2b1dd71cab0df3fe71)
