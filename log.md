@@ -88,3 +88,11 @@
 **Thoughts:** Reading on graph structure will implement it in coming days. Need more practice in tree recursion and traversal concept, it could be confusing sometimes.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/4083b05a081ce9f7c5ba4c2b1dd71cab0df3fe71)
+
+### Day 12: January 13, 2017
+
+**Today's Progress**: Added skeleton for Doubly Linked list and Reading on Graph data structure
+
+**Thoughts:** Can't focus much today. So, created a skeleton for doubly linked-list and will complete it tomorrow. Will continue reading on graph tomorrow.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/61a26f7af685318f155ec009db8102d957378025)
