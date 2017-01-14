@@ -96,3 +96,11 @@
 **Thoughts:** Can't focus much today. So, created a skeleton for doubly linked-list and will complete it tomorrow. Will continue reading on graph tomorrow.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/61a26f7af685318f155ec009db8102d957378025)
+
+### Day 13: January 14, 2017
+
+**Today's Progress**: Added skeleton for Graph and Reading on Graph data structure
+
+**Thoughts:** Resistance day again! Manage to hold against it which do some reading on graph and code in the basic skeleton of the graph structure
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/2384373a4908d7d0f616e9b48a7c456016dff9ff)
