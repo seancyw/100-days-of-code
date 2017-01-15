@@ -104,3 +104,11 @@
 **Thoughts:** Resistance day again! Manage to hold against it which do some reading on graph and code in the basic skeleton of the graph structure
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/2384373a4908d7d0f616e9b48a7c456016dff9ff)
+
+### Day 14: January 15, 2017
+
+**Today's Progress**: Added more functions (addVertex, addEdges, isLinkBetweenVertex, getAdjacentVertex) for Graph
+
+**Thoughts:** Trying to implement the graph adjacent list using own method even though the space-time performance not perfect. Will improve it further when I code it down the road.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/71c8a758114d87e1d3c5287548399eff60b8c905)
