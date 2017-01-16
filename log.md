@@ -112,3 +112,11 @@
 **Thoughts:** Trying to implement the graph adjacent list using own method even though the space-time performance not perfect. Will improve it further when I code it down the road.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/71c8a758114d87e1d3c5287548399eff60b8c905)
+
+### Day 15: January 16, 2017
+
+**Today's Progress**: Complete doubly linked-list implementation
+
+**Thoughts:** Finished what the task left off 3 days ago which is completing doubly linked-list. Was stuck initially because wrong concept and code without thinking (same old problem), manage to google information on wikipedia and finish it using pseudocode provides.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/a3dfa0a85b2c1c5f2713235ad50abdf489a32ec8)
