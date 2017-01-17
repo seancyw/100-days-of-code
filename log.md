@@ -120,3 +120,11 @@
 **Thoughts:** Finished what the task left off 3 days ago which is completing doubly linked-list. Was stuck initially because wrong concept and code without thinking (same old problem), manage to google information on wikipedia and finish it using pseudocode provides.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/a3dfa0a85b2c1c5f2713235ad50abdf489a32ec8)
+
+### Day 16: January 17, 2017
+
+**Today's Progress**: Added skeleton class for Heap data structure and Reading on Heap data structure
+
+**Thoughts:** Need to divert a bit from graph and tree temporary as brain can't digest too much equation, therefore reading on heap and added skeleton class implementation on it. Will complete the Heap class tomorrow and move on to others data structure in coming days.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/0be70738fa4941a83c89ddd9115820afa523590c)
