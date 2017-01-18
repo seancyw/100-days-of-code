@@ -128,3 +128,11 @@
 **Thoughts:** Need to divert a bit from graph and tree temporary as brain can't digest too much equation, therefore reading on heap and added skeleton class implementation on it. Will complete the Heap class tomorrow and move on to others data structure in coming days.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/0be70738fa4941a83c89ddd9115820afa523590c)
+
+### Day 17: January 18, 2017
+
+**Today's Progress**: Complete implementation for Heap data structure (bugs inside it)
+
+**Thoughts:** There's some issues on bubbleUp and bubbleDown algorithms, it doesn't work as it should be. Will fix this bug and close this tomorrow.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/eb3a2e89fd67544e769951be30d3a45e7cfa6b50)
