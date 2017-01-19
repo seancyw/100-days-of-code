@@ -136,3 +136,11 @@
 **Thoughts:** There's some issues on bubbleUp and bubbleDown algorithms, it doesn't work as it should be. Will fix this bug and close this tomorrow.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/eb3a2e89fd67544e769951be30d3a45e7cfa6b50)
+
+### Day 18: January 19, 2017
+
+**Today's Progress**: Fixed bugs on Heap data structure (bubbleUp and bubbleDown) and value duplication verification
+
+**Thoughts:** Finished implementation on Heap. Will move on to another data structure tomorrow.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/7fbb697a8133aca2a2ee8bc749011b5a22f518a5)
