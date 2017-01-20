@@ -144,3 +144,11 @@
 **Thoughts:** Finished implementation on Heap. Will move on to another data structure tomorrow.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/7fbb697a8133aca2a2ee8bc749011b5a22f518a5)
+
+### Day 19: January 20, 2017
+
+**Today's Progress**: Added skeleton class for Array data structure
+
+**Thoughts:** Implemented some of the basic function and play around with operator overloading. Not really use operator overloading, will do more practice on it and complete Array class tomorrow.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/b346ea59f48b48f3da9881f489d96e6179add312)
