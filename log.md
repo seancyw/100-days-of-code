@@ -152,3 +152,11 @@
 **Thoughts:** Implemented some of the basic function and play around with operator overloading. Not really use operator overloading, will do more practice on it and complete Array class tomorrow.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/b346ea59f48b48f3da9881f489d96e6179add312)
+
+### Day 20: January 21, 2017
+
+**Today's Progress**: Completed Array data structure
+
+**Thoughts:** Still not get use to operator overloading will practice more and more. Still thinking whether to divert to do some algorithms or continue more data structure in coming days.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/a5acf5223fae9927694e466c1a47e5ca58668708)
