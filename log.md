@@ -160,3 +160,11 @@
 **Thoughts:** Still not get use to operator overloading will practice more and more. Still thinking whether to divert to do some algorithms or continue more data structure in coming days.
 
 **Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/a5acf5223fae9927694e466c1a47e5ca58668708)
+
+### Day 21: January 22, 2017
+
+**Today's Progress**: Added makeHeap function for Heap class and Reading on Priority Queue
+
+**Thoughts:** Found that priority queue concept is about the same as maximum or minimum heap but with different implementation will having different worst time performance. Will stop data structure start algorithms project from tomorrow.
+
+**Link to work:** [Data Structure](https://github.com/seancyw/DataStructure/commit/bb52a107ce588b4e65d94943e8707312a63a0509)
