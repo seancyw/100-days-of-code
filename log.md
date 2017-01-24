@@ -176,3 +176,11 @@
 **Thoughts:** Divert from data structure and start to do algorithms before going for advanced data structure like graph. Will implement at least one algorithms each day.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/73052a67b9c9524e25661f5dc8037af84ac33b3d)
+
+### Day 23: January 24, 2017
+
+**Today's Progress**: Added binary search algorithms
+
+**Thoughts:** Not much time to do coding in the coming days as the chinese new year is coming soon. Will try my best to code at least one algorithm each day.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
