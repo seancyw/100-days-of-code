@@ -184,3 +184,11 @@
 **Thoughts:** Not much time to do coding in the coming days as the chinese new year is coming soon. Will try my best to code at least one algorithm each day.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+
+### Day 24: January 26, 2017
+
+**Today's Progress**: Added bubble sort algorithms
+
+**Thoughts:** Missed 25th January as taking transport back to native. Manage to add one algorithm today. Will try my best to spare some time to code during the Chinese new year.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
