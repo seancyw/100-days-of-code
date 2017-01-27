@@ -192,3 +192,11 @@
 **Thoughts:** Missed 25th January as taking transport back to native. Manage to add one algorithm today. Will try my best to spare some time to code during the Chinese new year.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+
+### Day 25: January 27, 2017
+
+**Today's Progress**: Added selection sort algorithms
+
+**Thoughts:** Spare some time to add another sort algorithms, cleanup unused files and warnings.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
