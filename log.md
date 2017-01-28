@@ -200,3 +200,11 @@
 **Thoughts:** Spare some time to add another sort algorithms, cleanup unused files and warnings.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+
+### Day 26: January 28, 2017
+
+**Today's Progress**: Added insertion sort algorithms
+
+**Thoughts:** Spare some time to add another sort algorithms on first day of chinese new year.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
