@@ -208,3 +208,11 @@
 **Thoughts:** Spare some time to add another sort algorithms on first day of chinese new year.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+
+### Day 27: January 29, 2017
+
+**Today's Progress**: Added shell sort algorithms
+
+**Thoughts:** Spare some time to add another sort algorithms on second day of chinese new year.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
