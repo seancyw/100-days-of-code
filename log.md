@@ -216,3 +216,11 @@
 **Thoughts:** Spare some time to add another sort algorithms on second day of chinese new year.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+
+### Day 28: January 30, 2017
+
+**Today's Progress**: Added skeleton class for merge sort algorithms
+
+**Thoughts:** Not much time to implement the whole class so code the merge sort algorithm in skeleton first and complete it tomorrow.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
