@@ -191,7 +191,7 @@
 
 **Thoughts:** Missed 25th January as taking transport back to native. Manage to add one algorithm today. Will try my best to spare some time to code during the Chinese new year.
 
-**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9bcc1bca01074838a6a93a224639f912eb210836)
 
 ### Day 25: January 27, 2017
 
@@ -199,7 +199,7 @@
 
 **Thoughts:** Spare some time to add another sort algorithms, cleanup unused files and warnings.
 
-**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/d2db96564cc9bc01faaae6a4e7321b13f80d46fd)
 
 ### Day 26: January 28, 2017
 
@@ -207,7 +207,7 @@
 
 **Thoughts:** Spare some time to add another sort algorithms on first day of chinese new year.
 
-**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/63f858b78f55621efe90c47aeaaab0f0c372f8de)
 
 ### Day 27: January 29, 2017
 
@@ -215,7 +215,7 @@
 
 **Thoughts:** Spare some time to add another sort algorithms on second day of chinese new year.
 
-**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/f6fb7c77cac598d54635af753ba320fc102f485c)
 
 ### Day 28: January 30, 2017
 
@@ -223,4 +223,12 @@
 
 **Thoughts:** Not much time to implement the whole class so code the merge sort algorithm in skeleton first and complete it tomorrow.
 
-**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/9e67c38852b3a15a75b463053b1087ca503b68c3)
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/52dfe222c7738b8299badca073ad5f7311e4e4e2)
+
+### Day 29: January 31, 2017
+
+**Today's Progress**: Complete Merge Sort Implementation (have bug on merge operation)
+
+**Thoughts:** There's some problems in merge operation where some value doesn't copy to the original array. Will debug it tomorrow.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/0d484c734e516aab1cb28b322c5d5b5b20bb0d9a)
