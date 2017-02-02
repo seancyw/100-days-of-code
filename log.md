@@ -232,3 +232,11 @@
 **Thoughts:** There's some problems in merge operation where some value doesn't copy to the original array. Will debug it tomorrow.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/0d484c734e516aab1cb28b322c5d5b5b20bb0d9a)
+
+### Day 30: February 02, 2017
+
+**Today's Progress**: Fixed Merge operation in merge sort
+
+**Thoughts:** Miss one day again as the previous day full of outdoor activities and drove whole days.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/0d484c734e516aab1cb28b322c5d5b5b20bb0d9a)
