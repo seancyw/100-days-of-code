@@ -240,3 +240,11 @@
 **Thoughts:** Miss one day again as the previous day full of outdoor activities and drove whole days.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/0d484c734e516aab1cb28b322c5d5b5b20bb0d9a)
+
+### Day 31: February 04, 2017
+
+**Today's Progress**: Added skeleton class for quick sort algorithms
+
+**Thoughts:** Miss one day again as the previous day full of outdoor activities. Manage to add a skeleton class for quick sort. Will resume to code everyday start from next weeks.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/0d484c734e516aab1cb28b322c5d5b5b20bb0d9a)
