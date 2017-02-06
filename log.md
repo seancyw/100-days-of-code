@@ -239,7 +239,7 @@
 
 **Thoughts:** Miss one day again as the previous day full of outdoor activities and drove whole days.
 
-**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/0d484c734e516aab1cb28b322c5d5b5b20bb0d9a)
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/72ad28777e0552d860c1efe3917d59fb4926bf62)
 
 ### Day 31: February 04, 2017
 
@@ -247,4 +247,12 @@
 
 **Thoughts:** Miss one day again as the previous day full of outdoor activities. Manage to add a skeleton class for quick sort. Will resume to code everyday start from next weeks.
 
-**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/0d484c734e516aab1cb28b322c5d5b5b20bb0d9a)
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/12cc684a3e16d8b70548140dfc8ea2e5b9f80020)
+
+### Day 32: February 06, 2017
+
+**Today's Progress**: Complete Quick Sort Algorithms implementation
+
+**Thoughts:** Miss one day again as the previous day taking transport back to Singapore. Did some readings on quick sort implementation in details.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/8cf3c462c95666177928476a84f4d9e02d806d1d)
