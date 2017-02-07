@@ -256,3 +256,11 @@
 **Thoughts:** Miss one day again as the previous day taking transport back to Singapore. Did some readings on quick sort implementation in details.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/8cf3c462c95666177928476a84f4d9e02d806d1d)
+
+### Day 33: February 07, 2017
+
+**Today's Progress**: Implemented Counting Sort Algorithms
+
+**Thoughts:** Did some readings on conting sort implementation and going to implement radix sort tomorrow.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/bf271f103d1979ea61ce384d251a6fefe96e3f11)
