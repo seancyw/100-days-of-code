@@ -264,3 +264,11 @@
 **Thoughts:** Did some readings on conting sort implementation and going to implement radix sort tomorrow.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/bf271f103d1979ea61ce384d251a6fefe96e3f11)
+
+### Day 34: February 08, 2017
+
+**Today's Progress**: Added Radix Sort Algorithms (Bugs on ascending order)
+
+**Thoughts:** Reading on radix sort. results in ascending is not correct, will debug it tomorrow.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/4adb930a79a1ce53ee58a2c5930456a39da9b9c3)
