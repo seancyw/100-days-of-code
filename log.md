@@ -272,3 +272,11 @@
 **Thoughts:** Reading on radix sort. results in ascending is not correct, will debug it tomorrow.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/4adb930a79a1ce53ee58a2c5930456a39da9b9c3)
+
+### Day 35: February 09, 2017
+
+**Today's Progress**: Fixed bugs in Radix Sort Algorithms
+
+**Thoughts:** Will check on any others sorting or searching algorithms and implemented it in coming days. Else, will shift back to continue on data structure reading and implementation on graph or start multithreading projects.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/d4aba66e49c52670344571af546b8d638549be40)
