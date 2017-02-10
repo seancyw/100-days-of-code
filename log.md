@@ -280,3 +280,11 @@
 **Thoughts:** Will check on any others sorting or searching algorithms and implemented it in coming days. Else, will shift back to continue on data structure reading and implementation on graph or start multithreading projects.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/d4aba66e49c52670344571af546b8d638549be40)
+
+### Day 36: February 10, 2017
+
+**Today's Progress**: Added Bucket Sort Algorithms Implementation
+
+**Thoughts:** Will try to implement some search algorithms tomorrow.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/dac35b91104445a95da345583c64799a8027f038)
