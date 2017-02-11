@@ -288,3 +288,11 @@
 **Thoughts:** Will try to implement some search algorithms tomorrow.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/dac35b91104445a95da345583c64799a8027f038)
+
+### Day 37: February 11, 2017
+
+**Today's Progress**: Added Jump Search algorithm implementation
+
+**Thoughts:** Going to implement interpolation search tomorrow.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/549e3552fc5defe36c5f9d0165d02b09237ec973)
