@@ -296,3 +296,11 @@
 **Thoughts:** Going to implement interpolation search tomorrow.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/549e3552fc5defe36c5f9d0165d02b09237ec973)
+
+### Day 38: February 12, 2017
+
+**Today's Progress**: Added Interpolation Search algorithm implementation
+
+**Thoughts:** Will stop algorithms project as most of the search and sort algorithms have been implemented. Going to start multithreading project from tomorrow onwards.
+
+**Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/0c3d8a4ab7a2cdae9d9874f66d8fb41ee2fd86c9)
