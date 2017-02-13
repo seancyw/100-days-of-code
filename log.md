@@ -304,3 +304,11 @@
 **Thoughts:** Will stop algorithms project as most of the search and sort algorithms have been implemented. Going to start multithreading project from tomorrow onwards.
 
 **Link to work:** [Algorithms](https://github.com/seancyw/Algorithms/commit/0c3d8a4ab7a2cdae9d9874f66d8fb41ee2fd86c9)
+
+### Day 39: February 13, 2017
+
+**Today's Progress**: Starting to work to multithreading
+
+**Thoughts:** Need to read more on how multithreading works and do more practice on it.
+
+**Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/c6e3c047a0e5d9f8937669af9e78d8f3d672f786)
