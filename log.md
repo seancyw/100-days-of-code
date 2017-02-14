@@ -312,3 +312,11 @@
 **Thoughts:** Need to read more on how multithreading works and do more practice on it.
 
 **Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/c6e3c047a0e5d9f8937669af9e78d8f3d672f786)
+
+### Day 40: February 14, 2017
+
+**Today's Progress**: Completing the test code for multithreadings without semaphores, mutex and critical sections
+
+**Thoughts:** Doing some readings and watch video regarding multithreadings concept and how it works before proceed further
+
+**Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/379fcca3c3cfbb8fddf0d5c8948d21c9b6d248fb)
