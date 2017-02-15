@@ -320,3 +320,11 @@
 **Thoughts:** Doing some readings and watch video regarding multithreadings concept and how it works before proceed further
 
 **Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/379fcca3c3cfbb8fddf0d5c8948d21c9b6d248fb)
+
+### Day 41: February 15, 2017
+
+**Today's Progress**: Understanding on mutex, dead-lock, atomic operation on multithreading
+
+**Thoughts:** Doing some readings and watch video regarding mmutex, dead-lock, atomic operation on multithreading. Not much to code until the concept is fully understand.
+
+**Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/60c7ead5f820d0226806fbc1cbec3589799866c4)
