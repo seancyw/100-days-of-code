@@ -328,3 +328,11 @@
 **Thoughts:** Doing some readings and watch video regarding mmutex, dead-lock, atomic operation on multithreading. Not much to code until the concept is fully understand.
 
 **Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/60c7ead5f820d0226806fbc1cbec3589799866c4)
+
+### Day 42: February 16, 2017
+
+**Today's Progress**: Learning on unique_lock, conditional_variables, future, promise, and async syntax in C++ 11 multithreading
+
+**Thoughts:** Multithreading could not either easy or complicated. Need to implement only if you know how to use it. More to go.
+
+**Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/890f6c02bb57041e855c0f75527c66344126f368)
