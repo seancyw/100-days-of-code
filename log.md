@@ -337,10 +337,18 @@
 
 **Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/890f6c02bb57041e855c0f75527c66344126f368)
 
-### Day 42: February 16, 2017
+### Day 42: February 17, 2017
 
 **Today's Progress**: Understanding on Callable Object, packaged_task, time constraint in C++11 threading library
 
 **Thoughts:** Today learning was kinda stuck as not much doing on the real program. Will deep in to more concept and try to do some project involving multithreading.
+
+**Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/6fbbc6aa7c646e890f121937684e36e1cd7a0d89)
+
+### Day 43: February 18, 2017
+
+**Today's Progress**: Setting Up Java SE 7 and BlueJ IDE, Start learning on Java basics
+
+**Thoughts:** Detour from multithreading for few days to learn about Java basics.
 
 **Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/6fbbc6aa7c646e890f121937684e36e1cd7a0d89)
