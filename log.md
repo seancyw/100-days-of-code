@@ -351,4 +351,12 @@
 
 **Thoughts:** Detour from multithreading for few days to learn about Java basics.
 
-**Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/6fbbc6aa7c646e890f121937684e36e1cd7a0d89)
+**Link to work:** [Java](https://github.com/seancyw/Multithreading/commit/6fbbc6aa7c646e890f121937684e36e1cd7a0d89)
+
+### Day 44: February 19, 2017
+
+**Today's Progress**: Setting Up Python IDE and learn python
+
+**Thoughts:** Another detour from multithreading and Java to learn some basic for python.
+
+**Link to work:** [Programming-Foundations-with-Python](https://github.com/seancyw/Programming-Foundations-with-Python)
