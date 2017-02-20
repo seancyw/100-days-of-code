@@ -360,3 +360,11 @@
 **Thoughts:** Another detour from multithreading and Java to learn some basic for python.
 
 **Link to work:** [Programming-Foundations-with-Python](https://github.com/seancyw/Programming-Foundations-with-Python)
+
+### Day 45: February 20, 2017
+
+**Today's Progress**: Completed Programming-Foundations-with-Python in Udacity
+
+**Thoughts:** Before going back to either multithreading and Java learning would like to learn more on Python basic which does not covered in the udacity course. It might takes next few days to do so.
+
+**Link to work:** [Programming-Foundations-with-Python](https://github.com/seancyw/Programming-Foundations-with-Python/commit/254308693facf73cbc5da9c36925ee24a8b4577e)
