@@ -368,3 +368,11 @@
 **Thoughts:** Before going back to either multithreading and Java learning would like to learn more on Python basic which does not covered in the udacity course. It might takes next few days to do so.
 
 **Link to work:** [Programming-Foundations-with-Python](https://github.com/seancyw/Programming-Foundations-with-Python/commit/254308693facf73cbc5da9c36925ee24a8b4577e)
+
+### Day 46: February 21, 2017
+
+**Today's Progress**: Setting CUDA development IDE with VS2015 and started "Intro to Parallel Programming" course in udacity
+
+**Thoughts:** Another detour from previous 3 projects. Going to dive in a little knowledge on GPU programming.
+
+**Link to work:** [GPU-Programming](https://github.com/seancyw/GPU-Programming)
