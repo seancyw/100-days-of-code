@@ -376,3 +376,11 @@
 **Thoughts:** Another detour from previous 3 projects. Going to dive in a little knowledge on GPU programming.
 
 **Link to work:** [GPU-Programming](https://github.com/seancyw/GPU-Programming)
+
+### Day 47: February 22, 2017
+
+**Today's Progress**: Continue "Intro to Parallel Programming" course in udacity
+
+**Thoughts:** Kinda blur on the most of the gpu concept and computation. Was thinking should I go do some course on basic computer science knowledge first instead.
+
+**Link to work:** [GPU-Programming](https://github.com/seancyw/GPU-Programming)
