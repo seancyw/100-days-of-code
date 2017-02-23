@@ -384,3 +384,11 @@
 **Thoughts:** Kinda blur on the most of the gpu concept and computation. Was thinking should I go do some course on basic computer science knowledge first instead.
 
 **Link to work:** [GPU-Programming](https://github.com/seancyw/GPU-Programming)
+
+### Day 48: February 23, 2017
+
+**Today's Progress**: Starting 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Stop what I do so far. As next week will be a big day, need to learn some computer sciences basic for preparation.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
