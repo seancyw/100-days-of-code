@@ -392,3 +392,11 @@
 **Thoughts:** Stop what I do so far. As next week will be a big day, need to learn some computer sciences basic for preparation.
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+### Day 49: February 24, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Not much coding but more on understanding on computer science concept and python syntax.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
