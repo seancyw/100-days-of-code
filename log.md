@@ -337,7 +337,7 @@
 
 **Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/890f6c02bb57041e855c0f75527c66344126f368)
 
-### Day 42: February 17, 2017
+### Day 43: February 17, 2017
 
 **Today's Progress**: Understanding on Callable Object, packaged_task, time constraint in C++11 threading library
 
@@ -345,7 +345,7 @@
 
 **Link to work:** [Multithreading](https://github.com/seancyw/Multithreading/commit/6fbbc6aa7c646e890f121937684e36e1cd7a0d89)
 
-### Day 43: February 18, 2017
+### Day 44: February 18, 2017
 
 **Today's Progress**: Setting Up Java SE 7 and BlueJ IDE, Start learning on Java basics
 
@@ -353,7 +353,7 @@
 
 **Link to work:** [Java](https://github.com/seancyw/Multithreading/commit/6fbbc6aa7c646e890f121937684e36e1cd7a0d89)
 
-### Day 44: February 19, 2017
+### Day 45: February 19, 2017
 
 **Today's Progress**: Setting Up Python IDE and learn python
 
@@ -361,7 +361,7 @@
 
 **Link to work:** [Programming-Foundations-with-Python](https://github.com/seancyw/Programming-Foundations-with-Python)
 
-### Day 45: February 20, 2017
+### Day 46: February 20, 2017
 
 **Today's Progress**: Completed Programming-Foundations-with-Python in Udacity
 
@@ -369,7 +369,7 @@
 
 **Link to work:** [Programming-Foundations-with-Python](https://github.com/seancyw/Programming-Foundations-with-Python/commit/254308693facf73cbc5da9c36925ee24a8b4577e)
 
-### Day 46: February 21, 2017
+### Day 47: February 21, 2017
 
 **Today's Progress**: Setting CUDA development IDE with VS2015 and started "Intro to Parallel Programming" course in udacity
 
@@ -377,7 +377,7 @@
 
 **Link to work:** [GPU-Programming](https://github.com/seancyw/GPU-Programming)
 
-### Day 47: February 22, 2017
+### Day 48: February 22, 2017
 
 **Today's Progress**: Continue "Intro to Parallel Programming" course in udacity
 
@@ -385,7 +385,7 @@
 
 **Link to work:** [GPU-Programming](https://github.com/seancyw/GPU-Programming)
 
-### Day 48: February 23, 2017
+### Day 49: February 23, 2017
 
 **Today's Progress**: Starting 'Intro to Computer Science' course in Udacity
 
@@ -393,10 +393,18 @@
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
 
-### Day 49: February 24, 2017
+### Day 50: February 24, 2017
 
 **Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
 
 **Thoughts:** Not much coding but more on understanding on computer science concept and python syntax.
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+### Day 51: February 24, 2017
+
+**Today's Progress**: Learned some basic bash commands and continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Fixed some problem set in 'Intro to computer science' course and learn some simple bash commands in windows and linux.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923;[Bash Crash Courses] https://learnpythonthehardway.org/book/appendix-a-cli/ex15.html
