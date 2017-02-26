@@ -408,3 +408,11 @@
 **Thoughts:** Fixed some problem set in 'Intro to computer science' course and learn some simple bash commands in windows and linux.
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923;[Bash Crash Courses] https://learnpythonthehardway.org/book/appendix-a-cli/ex15.html
+
+### Day 52: February 25, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Fixed some problem set in 'Intro to computer science' course as well and revised on C++.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923;
