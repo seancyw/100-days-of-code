@@ -401,7 +401,7 @@
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
 
-### Day 51: February 24, 2017
+### Day 51: February 25, 2017
 
 **Today's Progress**: Learned some basic bash commands and continue 'Intro to Computer Science' course in Udacity
 
@@ -409,10 +409,18 @@
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923;[Bash Crash Courses] https://learnpythonthehardway.org/book/appendix-a-cli/ex15.html
 
-### Day 52: February 25, 2017
+### Day 52: February 26, 2017
 
 **Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
 
 **Thoughts:** Fixed some problem set in 'Intro to computer science' course as well and revised on C++.
 
-**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923;
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+### Day 53: February 27, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Not much time to go though more lesson on 'Intro to computer science' course as it's been a long after technical skill checking.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
