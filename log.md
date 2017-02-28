@@ -424,3 +424,11 @@
 **Thoughts:** Not much time to go though more lesson on 'Intro to computer science' course as it's been a long after technical skill checking.
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+### Day 54: February 28, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Will take some time to learn on some of the concept which I am not strong enough to perform well in technical skills reviews on C++ while continue the udacity course in parallel.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
