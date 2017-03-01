@@ -432,3 +432,11 @@
 **Thoughts:** Will take some time to learn on some of the concept which I am not strong enough to perform well in technical skills reviews on C++ while continue the udacity course in parallel.
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+## Day 55: March 01, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Gathering information about what topics to strengthen and work on it while at the same time continue udacity course.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
