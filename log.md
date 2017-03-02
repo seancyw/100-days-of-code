@@ -440,3 +440,11 @@
 **Thoughts:** Gathering information about what topics to strengthen and work on it while at the same time continue udacity course.
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+## Day 56: March 02, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Not much problems solving today as some personal work come out.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
