@@ -496,3 +496,11 @@
 **Thoughts:** started to working and doing exercise on algorithms for lesson 4
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+## Day 63: March 09, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Completed lesson 4, going to do some exercise on algorithms for lesson 4 tomorrow
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
