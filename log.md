@@ -528,3 +528,11 @@
 **Thoughts:** Missed two days due to exhausted and sicked. Continue lesson 5 and doing some hash function generation algorithms
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+## Day 67: March 15, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Continue lesson 5 and Doing hash table implementation
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
