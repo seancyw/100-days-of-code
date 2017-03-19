@@ -552,3 +552,11 @@
 **Thoughts:** Started lesson 6 and working on recursion implementation
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+## Day 70: March 18, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Continue lesson 6 and more recursive exercise. Missed one day again due to travel.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
