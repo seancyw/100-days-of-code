@@ -560,3 +560,11 @@
 **Thoughts:** Continue lesson 6 and more recursive exercise. Missed one day again due to travel.
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+## Day 71: March 19, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Continue lesson 6 today. Resistance come again, missed one day. Will try to not making this happened again.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
