@@ -568,3 +568,11 @@
 **Thoughts:** Continue lesson 6 today. Resistance come again, missed one day. Will try to not making this happened again.
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+## Day 72: March 20, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Complete lesson 6 today. Learning concept on pagerank
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
