@@ -589,6 +589,6 @@
 
 **Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
 
-**Thoughts:** Completed lesson 7 and learn about past, present and future of computing
+**Thoughts:** Working some exercise and problem set which skipped or not yet finished for the course. 
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
