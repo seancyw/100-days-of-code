@@ -561,7 +561,7 @@
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
 
-## Day 71: March 19, 2017
+## Day 71: March 20, 2017
 
 **Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
 
@@ -569,7 +569,7 @@
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
 
-## Day 72: March 20, 2017
+## Day 72: March 22, 2017
 
 **Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
 
@@ -577,7 +577,7 @@
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
 
-## Day 73: March 21, 2017
+## Day 73: March 23, 2017
 
 **Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
 
@@ -585,10 +585,18 @@
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
 
-## Day 74: March 22, 2017
+## Day 74: March 25, 2017
 
 **Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
 
 **Thoughts:** Working some exercise and problem set which skipped or not yet finished for the course. 
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+## Day 75: March 26, 2017
+
+**Today's Progress**: Continue 'Intro to Computer Science' course in Udacity
+
+**Thoughts:** Working some exercise and problem set which skipped or not yet finished for the course as well. 
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
