@@ -600,3 +600,11 @@
 **Thoughts:** Working some exercise and problem set which skipped or not yet finished for the course as well. 
 
 **Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+
+## Day 76: March 27, 2017
+
+**Today's Progress**: Started 'Software Testing' course in Udacity
+
+**Thoughts:** Learning on some basics on software testing methodology.
+
+**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
