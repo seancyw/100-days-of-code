@@ -607,4 +607,12 @@
 
 **Thoughts:** Learning on some basics on software testing methodology.
 
-**Link to work:** [Intro to Computer Science]https://classroom.udacity.com/courses/cs101/lessons/48299949/concepts/487212980923
+**Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
+
+## Day 77: March 28, 2017
+
+**Today's Progress**: Continue 'Software Testing' course in Udacity
+
+**Thoughts:** Generating some simple test case for an queue class.
+
+**Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
