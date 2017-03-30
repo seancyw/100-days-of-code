@@ -624,3 +624,11 @@
 **Thoughts:** Continue lesson 1 and learning more about assertion
 
 **Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
+
+## Day 79: March 30, 2017
+
+**Today's Progress**: Continue 'Software Testing' course in Udacity
+
+**Thoughts:** Completed lesson 1 and learning basics concept about white-box testing, black-box testing, regression testing, integration testing.
+
+**Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
