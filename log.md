@@ -632,3 +632,11 @@
 **Thoughts:** Completed lesson 1 and learning basics concept about white-box testing, black-box testing, regression testing, integration testing.
 
 **Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
+
+## Day 80: March 31, 2017
+
+**Today's Progress**: Continue 'Software Testing' course in Udacity
+
+**Thoughts:** Started lesson 2 and learning basics concept about testing coverage
+
+**Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
