@@ -640,3 +640,11 @@
 **Thoughts:** Started lesson 2 and learning basics concept about testing coverage
 
 **Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
+
+## Day 81: April 1, 2017
+
+**Today's Progress**: Continue 'Software Testing' course in Udacity
+
+**Thoughts:** Continue lesson 2. Splay tree and coverage metrics
+
+**Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
