@@ -648,3 +648,11 @@
 **Thoughts:** Continue lesson 2. Splay tree and coverage metrics
 
 **Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
+
+## Day 82: April 2, 2017
+
+**Today's Progress**: Continue 'Software Testing' course in Udacity
+
+**Thoughts:** Completed lesson 2. Going through all kinds of testing coverage methods(Branch coverage, MC/DC coverage, loop coverage, path coverage, boundary value coverage, synchronization coverage)
+
+**Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
