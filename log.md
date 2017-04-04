@@ -664,3 +664,11 @@
 **Thoughts:** Started lesson 3. Going through Random testing concepts and examples.
 
 **Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
+
+## Day 84: April 4, 2017
+
+**Today's Progress**: Continue 'Software Testing' course in Udacity
+
+**Thoughts:** Continue lesson 3. Concept on input validity and exercise on luhns algorithms.
+
+**Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
