@@ -680,3 +680,11 @@
 **Thoughts:** Continue lesson 3. Concept on Fuzzing and FDIV flaws.
 
 **Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
+
+## Day 86: April 6, 2017
+
+**Today's Progress**: Continue 'Software Testing' course in Udacity
+
+**Thoughts:** Continue lesson 3. Concept on Generating random inputs and mutation based random inputs
+
+**Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
