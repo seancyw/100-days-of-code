@@ -688,3 +688,11 @@
 **Thoughts:** Continue lesson 3. Concept on Generating random inputs and mutation based random inputs
 
 **Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
+
+## Day 87: April 11, 2017
+
+**Today's Progress**: Continue 'Software Testing' course in Udacity
+
+**Thoughts:** Finished lesson 3 and started lesson 4. Missed 4 days as travelling to others country with no internet access.
+
+**Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
