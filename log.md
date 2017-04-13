@@ -696,3 +696,11 @@
 **Thoughts:** Finished lesson 3 and started lesson 4. Missed 4 days as travelling to others country with no internet access.
 
 **Link to work:** [Software Testing]https://classroom.udacity.com/courses/cs258/lessons/48449993/concepts/486985100923
+
+## Day 88: April 13, 2017
+
+**Today's Progress**: C++ revisited
+
+**Thoughts:** Refreshed on C++ pointers and computer memory concept.
+
+**Link to work:** [Teach Yourselves C++ in 21 Days]
