@@ -704,3 +704,11 @@
 **Thoughts:** Refreshed on C++ pointers and computer memory concept.
 
 **Link to work:** [Teach Yourselves C++ in 21 Days]
+
+## Day 89: April 14, 2017
+
+**Today's Progress**: C++ revisited Day 2
+
+**Thoughts:** Refreshed on C++ functions, static and local variables
+
+**Link to work:** [Teach Yourselves C++ in 21 Days]
