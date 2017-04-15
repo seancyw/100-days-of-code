@@ -712,3 +712,11 @@
 **Thoughts:** Refreshed on C++ functions, static and local variables
 
 **Link to work:** [Teach Yourselves C++ in 21 Days]
+
+## Day 90: April 15, 2017
+
+**Today's Progress**: C++ revisited Day 3
+
+**Thoughts:** Refreshed on C++ Arrays, and Inheritance.
+
+**Link to work:** [Teach Yourselves C++ in 21 Days]
