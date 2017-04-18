@@ -728,3 +728,11 @@
 **Thoughts:** Learning some basics concepts on UML diagrams and will do some practices tomorrow.
 
 **Link to work:** [UML diagrams]https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
+
+## Day 92: April 18, 2017
+
+**Today's Progress**: Learning on UML diagrams Day 2
+
+**Thoughts:** Learning basics on Activity Diagram 
+
+**Link to work:** [UML diagrams]https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
