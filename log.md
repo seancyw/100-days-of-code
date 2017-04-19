@@ -736,3 +736,11 @@
 **Thoughts:** Learning basics on Activity Diagram 
 
 **Link to work:** [UML diagrams]https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
+
+## Day 92: April 19, 2017
+
+**Today's Progress**: Learning on UML diagrams Day 3
+
+**Thoughts:** Learning basics on Class Diagram and Sequence Diagram
+
+**Link to work:** [UML diagrams]https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
