@@ -752,3 +752,11 @@
 **Thoughts:** Learning basics on Communication Diagram
 
 **Link to work:** [UML diagrams]https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
+
+## Day 94: April 21, 2017
+
+**Today's Progress**: Learning on UML diagrams Day 5
+
+**Thoughts:** Learning basics on Timing Diagram
+
+**Link to work:** [UML diagrams]https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
