@@ -760,3 +760,19 @@
 **Thoughts:** Learning basics on Timing Diagram
 
 **Link to work:** [UML diagrams]https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
+
+## Day 95: April 23, 2017
+
+**Today's Progress**: Learning on UML diagrams Day 6
+
+**Thoughts:** Learning basics on Component, State Machine and Deployment Diagrams
+
+**Link to work:** [UML diagrams]https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
+
+## Day 96: April 24, 2017
+
+**Today's Progress**: Git bash crashes course
+
+**Thoughts:** Learning basics on git commands Day 1
+
+**Link to work:** [Git Tutorial]https://www.youtube.com/watch?v=r63f51ce84A&list=WL&index=74&t=5s
