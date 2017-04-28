@@ -784,3 +784,11 @@
 **Thoughts:** Learning basics on git commands Day 2
 
 **Link to work:** [Git Tutorial]https://www.youtube.com/watch?v=r63f51ce84A&list=WL&index=74&t=5s
+
+## Day 98: April 26, 2017
+
+**Today's Progress**: Git bash crashes course
+
+**Thoughts:** Learning basics on git commands Day 3
+
+**Link to work:** [Git Tutorial]https://www.youtube.com/watch?v=r63f51ce84A&list=WL&index=74&t=5s
